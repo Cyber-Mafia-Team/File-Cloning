@@ -1,2 +1,0 @@
-import Ruhul
-Ruhul.sykology()
